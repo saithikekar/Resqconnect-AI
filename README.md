@@ -1,4 +1,4 @@
-# Resqconnect: AI-Driven Real-time Disaster Relevant Information Aggregation System
+# Resqconnect: AI-Driven Real-time Disaster Related Information Aggregation System
 
 ![main resq](https://github.com/user-attachments/assets/650d4e13-084f-4430-952e-865cad329218)
 

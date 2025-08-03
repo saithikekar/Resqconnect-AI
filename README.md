@@ -87,6 +87,12 @@ Our published research explores the integration of AI, LLMs, and multimodal data
 
 Research Paper Link | [http://dx.doi.org/10.52783/cana.v32.2597]
 
+Citation (IEEE)
+```bash
+R. Temkar, G. Bhatia, S. Thikekar, A. Banavali, Y. Chhaproo, and A. Ingle, 
+"AI-Powered Multimodal Disaster Response Enhancement using Social Media Streams,"
+Communications on Applied Nonlinear Analysis, vol. 32, no. 3s, pp. 198–211, 2025.
+``````
 ### License
 This project is licensed under the MIT License.
 ```bash

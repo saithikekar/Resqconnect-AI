@@ -87,7 +87,7 @@ Our published research explores the integration of AI, LLMs, and multimodal data
 
 Research Paper Link | [http://dx.doi.org/10.52783/cana.v32.2597]
 
-Citation (IEEE)
+Citation
 ```bash
 R. Temkar, G. Bhatia, S. Thikekar, A. Banavali, Y. Chhaproo, and A. Ingle, 
 "AI-Powered Multimodal Disaster Response Enhancement using Social Media Streams,"

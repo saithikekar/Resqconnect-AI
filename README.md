@@ -17,17 +17,70 @@ The **web platform** is tailored for rescue agencies and admins, offering deeper
 
 ### Role-specific Interfaces
 
-Mobile App: For the public, featuring easy access to live alerts, regional analytics, and rescue tracking in preferred languages.
+**Mobile App:** For the public, featuring easy access to live alerts, regional analytics, and rescue tracking in preferred languages.
+
+<img src="Images/app-4.png" alt="Mobile-app-1" width="500" /> <img src="Images/app-1.png" alt="Mobile-app-1" width="500" /> 
+<img src="Images/app-2.png" alt="Mobile-app-2" width="500" /> <img src="Images/app-3.png" alt="Mobile-app-3" width="500" />
 
 
+**Web Platform:** For rescue agencies and admins, enabling deep analytics, resource coordination, and operational dashboards.
 
-Web Platform: For rescue agencies and admins, enabling deep analytics, resource coordination, and operational dashboards.
+1. Disaster Management Portal overview page
 
-Tech Stack
-Backend: Python, FastAPI, Transformers (HuggingFace), Gemini API, MongoDB, Bright Data, Tweepy
+<img src="Images/web-1.png" alt="web-1" width="500" />
 
-Frontend: React, Responsive Design
 
-Infrastructure: AWS EC2/S3, Docker
+2. AI Generated Summarization of related tweets
 
-DevOps/Project Management: Jira, Docker
+<img src="Images/web-2.png" alt="web-2" width="500" />
+
+
+3. Latest and ontrend disaster related tweets
+
+<img src="Images/web-3.png" alt="web-3" width="500" />
+
+
+4. Track the issue and relief assistance
+
+<img src="Images/web-4.png" alt="web-4" width="500" />
+
+
+### Tech Stack
+
+- Backend: Python, FastAPI, Transformers (HuggingFace), Gemini API, Bright Data, Tweepy, NewsAPI.
+- Data Science: PyTorch, TensorFlow, Pandas, Sci-kit Learn, MLflow, Optuna, Numpy, JupyterNotebooks.
+- Frontend: React, Responsive Design, React Native, MaterialUI, OnceUI.
+- Databases and Infrastructure: MongoDB, AWS.
+- DevOps/Project Management: Jira, Docker.
+- Developement Practices: Data Version Control, Agile Methodologies.
+
+
+```bash
+git clone https://github.com/saithikekar/Resqconnect-AI.git
+cd Resqconnect-AI
+``````
+
+
+### Live Demo
+
+[![Watch the video](Demo/demo-image.png)](Demo/Demo_video.mp4)
+
+
+### Research Paper
+Our published research explores the integration of AI, LLMs, and multimodal data pipelines for disaster response and situational awareness. The system’s use of state-of-the-art neural models demonstrated 93.66% accuracy in content relevancy, enabling actionable insights for both public users and emergency professionals. Key innovations include:
+
+- High-Precision Filtering: EfficientNet-BERT and Gemini LLM for noisy data.
+- Multilingual Insights: AI-powered translation and summarization.
+- Operational Impact: Real-time alerting and rescue tracking, validated through pilot deployments.
+
+Research Paper Link | [http://dx.doi.org/10.52783/cana.v32.2597]
+
+License
+This project is licensed under the MIT License.
+
+
+Contacts & Contributors
+Sai Thikekar | [www.linkedin.com/in/sai-thikekar-44a508225]
+Yash Chhaproo
+Arya Banavali
+Aradhya Ingle

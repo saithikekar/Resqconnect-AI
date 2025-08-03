@@ -111,6 +111,7 @@ SOFTWARE.
 
 ### Contacts & Contributors
 
+- Project Mentor: Dr. Rohini Temakar
 - Sai Thikekar | [www.linkedin.com/in/sai-thikekar-44a508225]
 - Yash Chhaproo
 - Arya Banavali

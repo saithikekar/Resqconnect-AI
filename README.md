@@ -15,6 +15,18 @@ The **web platform** is tailored for rescue agencies and admins, offering deeper
 - **Interactive Dashboards:** Presents data through analytics, trend graphs, and AI summaries, including the latest disaster-related tweets and sentiment visualizations.
 - **Alerting System:** Delivers notifications and emergency alerts to users and their emergency contacts and supports tracking of rescue operations.
 
+### Multimodal Architecture
+
+<p align="center">
+  <img src="Images/Model Architecture.png" alt="model" width="400" />
+</p>
+
+### System Workflow Diagram
+
+  <img src="Images/System-workflow.jpg" alt="workflow" width="700" />
+
+
+
 ### Role-specific Interfaces
 
 **Mobile App:** For the public, featuring easy access to live alerts, regional analytics, and rescue tracking in preferred languages.
@@ -63,7 +75,7 @@ cd Resqconnect-AI
 
 ### Live Demo
 
-[![Watch the video](Demo/demo-image.png)](Demo/Demo_video.mp4)
+[![Watch the video](https://github.com/user-attachments/assets/2fd1720b-e03f-4ee2-8d7b-bb3e976cdd42)](https://raw.githubusercontent.com/saithikekar/Resqconnect-AI/main/Demo/Demo_video.mp4)
 
 
 ### Research Paper
@@ -75,12 +87,13 @@ Our published research explores the integration of AI, LLMs, and multimodal data
 
 Research Paper Link | [http://dx.doi.org/10.52783/cana.v32.2597]
 
-License
+### License
 This project is licensed under the MIT License.
 
 
-Contacts & Contributors
-Sai Thikekar | [www.linkedin.com/in/sai-thikekar-44a508225]
-Yash Chhaproo
-Arya Banavali
-Aradhya Ingle
+### Contacts & Contributors
+
+- Sai Thikekar | [www.linkedin.com/in/sai-thikekar-44a508225]
+- Yash Chhaproo
+- Arya Banavali
+- Aradhya Ingle

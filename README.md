@@ -7,5 +7,27 @@ ResQconnect is an AI-powered disaster information aggregation platform designed 
 
 The **web platform** is tailored for rescue agencies and admins, offering deeper data exploration, advanced analytics, and management tools. It provides agencies with aggregated insights, actionable intelligence, and the ability to coordinate response more effectively using live dashboards and curated data streams. This dual-platform approach ensures both the public and emergency professionals stay informed and empowered throughout any crisis.
 
+### Key Features
+
+- **Real-Time Data Aggregation:** Collects information from social media, news, and user reports using web scraping and public APIs.
+- **AI-Powered Classification:** Leverages EfficientNet-BERT and Gemini LLMs to filter, clean, and classify incoming disaster data with high accuracy (93.66%).
+- **Multilingual Summarization:** Automatically summarizes and translates updates, news, user comments, and social content in multiple languages.
+- **Interactive Dashboards:** Presents data through analytics, trend graphs, and AI summaries, including the latest disaster-related tweets and sentiment visualizations.
+- **Alerting System:** Delivers notifications and emergency alerts to users and their emergency contacts and supports tracking of rescue operations.
+
+### Role-specific Interfaces
+
+Mobile App: For the public, featuring easy access to live alerts, regional analytics, and rescue tracking in preferred languages.
 
 
+
+Web Platform: For rescue agencies and admins, enabling deep analytics, resource coordination, and operational dashboards.
+
+Tech Stack
+Backend: Python, FastAPI, Transformers (HuggingFace), Gemini API, MongoDB, Bright Data, Tweepy
+
+Frontend: React, Responsive Design
+
+Infrastructure: AWS EC2/S3, Docker
+
+DevOps/Project Management: Jira, Docker

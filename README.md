@@ -115,4 +115,4 @@ SOFTWARE.
 - Sai Thikekar | [www.linkedin.com/in/sai-thikekar-44a508225]
 - Yash Chhaproo
 - Arya Banavali
-- Aradhya Ingle
+- Aradhya Ingle | [https://www.linkedin.com/in/aradhyaingle/]
